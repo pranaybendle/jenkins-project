@@ -1,0 +1,5 @@
+# Created at 2026-04-06T11:39:33.082
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Capgemini\Track\Module 6\Extent_Report\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
